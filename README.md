@@ -1,2 +1,2 @@
 # webwar
-Aplicacion de prueba con integracion continuan en jenkins
+Aplicacion Web con integracio continua a traves de Jenkins
